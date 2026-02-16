@@ -1,10 +1,6 @@
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #9333ea, #a855f7, #c084fc); 
-  -webkit-background-clip: text; 
-  -webkit-text-fill-color: transparent;">
-    Hi 👋, I'm Thinusha Karunananthan
-  </span>
-</h1
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=A855F7&center=true&vCenter=true&lines=Hi+👋,+I'm+Thinusha+Karunananthan;Welcome+to+my+GitHub+Profile!"/>
+</p>
 <h3 align="center">
 🎓 B.Sc. Undergraduate in Physical Science | University of Jaffna <br>
 💡 Passionate about Web Development & Data Science
