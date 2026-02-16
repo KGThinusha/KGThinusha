@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Thinusha Karunananthan</h1>
-
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #9333ea, #a855f7, #c084fc); 
+  -webkit-background-clip: text; 
+  -webkit-text-fill-color: transparent;">
+    Hi 👋, I'm Thinusha Karunananthan
+  </span>
+</h1
 <h3 align="center">
 🎓 B.Sc. Undergraduate in Physical Science | University of Jaffna <br>
 💡 Passionate about Web Development & Data Science
